@@ -15,15 +15,41 @@
       ]
     },
     {
-      "autoplay": 1000,
-      "page": 10,
-      "title": "Perfumes Femininos",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
+      "shuffle": true,
       "limit": 24,
+      "page": 1,
       "collection_id": "646f9f63a0e875411e9d1ad0:categories:Perfumes Femininos:/perfumes-femininos/",
-      "sort": "views"
+      "title": "Perfumes Femininos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "646f9f64a0e875411e9d1ad2:categories:Perfumes Masculinos:/perfumes-masculinos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "647699d5a0e875411ea4b5b2:categories:Hidratantes Femininos:/hidratantes-femininos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "64769a38a0e875411ea4b687:categories:Hidratantes Masculinos:/hidratantes-masculinos"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-extra.png"
+    },
+    {
+      "type": "custom-html",
+      "html": "<iframe src=\"https://snapwidget.com/embed/1015905\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:1120px; height:160px\"></iframe>"
     }
   ]
 }
