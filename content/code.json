@@ -1,5 +1,5 @@
 {
-  "css": ".header {\nbackground: #ffffff;\n}",
+  "css": ".header {\nbackground: #ffffff;\n}\n\n@media(min-width: 767px) {\n  #logo {\n    max-height: 200px !important;\n  } \n} ",
   "html_head": "",
   "html_body": ""
 }
