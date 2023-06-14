@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8d2e3ff772e66f23ebc74ee8d90605a2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a66a56334d308e483d60a335437b704a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.0e1606ebbab9e899e59822f4c2ee126a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.02a3eab1d9dcdc7333b705f3810f838a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4bcc7f08c2a7130b4ed0d2662f8a7e56.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "LRG Perfumes",
+  "short_name": "LRG Perfumes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Lrg Perfumes atua no mercado desde meados de 2018, com o objetivo de trazer a todos os nossos clientes a nossa fórmula para a produção/preparo de todos os nossos Perfumes e Hidratantes. Trabalhamos com a linha Premium no ramo de contratipos, onde a nossa missão é oferecer a você cliente produtos de alta qualidade e performance sempre inspirado nas grandes marcas da perfumaria mundial",
+  "background_color": "#ffffff",
+  "theme_color": "#c07b44"
+}
