@@ -50,6 +50,18 @@
     {
       "type": "custom-html",
       "html": "<iframe src=\"https://snapwidget.com/embed/1015905\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:1120px; height:160px\"></iframe>"
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "nome": "Leonardo",
+          "cidade": "Rio de Janeiro",
+          "texto": "Perfume de qualidade. Muito bom e ótimo atendimento. Estão de parabéns!! Comprei um Polo Green e o perfume é maravilhoso. Em breve vou com certeza comprar mais."
+        }
+      ],
+      "title": "Avaliações"
     }
   ]
 }
