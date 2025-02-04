@@ -58,10 +58,6 @@
       "img": "/img/uploads/banner-extra.png"
     },
     {
-      "type": "custom-html",
-      "html": "<iframe src=\"https://snapwidget.com/embed/1015905\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:1120px; height:160px\"></iframe>"
-    },
-    {
       "type": "review-carousel",
       "autoplay": 9000,
       "reviews": [
